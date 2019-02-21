@@ -9,9 +9,10 @@ TRUFFLE
 
 TESTRPC
 
-[REMIX:](https://remix.ethereum.org/) Online, Solidity specific IDE - built in solidity compiler
+REMIX (https://remix.ethereum.org/) 
+Online, Solidity specific IDE - built in solidity compiler
 
-[INFURA:](https://infura.io/) 
+INFURA (https://infura.io/) 
 
 
 Links / commands
