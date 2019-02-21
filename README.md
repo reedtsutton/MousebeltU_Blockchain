@@ -3,16 +3,16 @@ Projects, notes, and code from Mousebelt University courses on Blockchain develo
 
 ## Initial Setup Components and Descriptions:
 
-GETH
+#### GETH
 
-TRUFFLE
+#### TRUFFLE
 
-TESTRPC
+#### TESTRPC
 
-REMIX (https://remix.ethereum.org/)   
+#### REMIX (https://remix.ethereum.org/)   
 Online, Solidity specific IDE - built in solidity compiler
 
-INFURA (https://infura.io/) 
+#### INFURA (https://infura.io/) 
 
 
 Links / commands
